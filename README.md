@@ -10,9 +10,7 @@
 
 [//]: # (Body)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebcarlsefni&hide_border=true&layout=compact&theme=transparent" style="width: 60%"/>
-</div>
+[//]: # (<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebcarlsefni&hide_border=true&layout=compact&theme=transparent" style="width: 60%"/></div>)
 
 
 
