@@ -1,10 +1,13 @@
 [//]: # (Header)
 
 <h1 align="center">
-  $\color{rgb(0,150,255)}{\textsf{(っ◔◡◔)っ Welcome to my}}$
-  $\color{rgb(0, 180, 250)}{\textsf{Github Profile}}$
+  $\color{rgb(0, 180, 250)}{\textsf{(っ◔◡◔)っ Welcome to my}}$
+  $\color{rgb(0, 250, 250)}{\textsf{Github Profile}}$
   <br>
-  $\color{rgb(0,150,255)}{\textsf{Glad to see you here!}}$
+</h1>
+
+<h1 align="right">
+  $\color{rgb(0, 180, 250)}{\textsf{Glad to see you here!}}$
 </h1>
 
 [//]: # (Body)
@@ -45,7 +48,7 @@
 <div>
   <h1 align="center">
   🙏
-  $\color{rgb(0,180,250)}{\textsf{Thank you for your attention!}}$
+  $\color{rgb(0, 250, 250)}{\textsf{Thank you for your attention!}}$
   🙏
 </h1>
 </div>
