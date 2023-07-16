@@ -1,17 +1,17 @@
 [//]: # (Header)
 
 <h1 align="center">
-  $\color{rgb(0,120,240)}{\textsf{(っ◔◡◔)っ Welcome to my}}$
-  $\color{rgb(0, 150, 255)}{\textsf{Github Profile}}$
+  $\color{rgb(0,100,200)}{\textsf{(っ◔◡◔)っ Welcome to my}}$
+  $\color{rgb(0, 130, 225)}{\textsf{Github Profile}}$
   <br>
-  $\color{rgb(0,120,240)}{\textsf{Glad to see you here!}}$
+  $\color{rgb(0,100,200)}{\textsf{Glad to see you here!}}$
 </h1>
 
 [//]: # (Body)
 
 [//]: # (<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebcarlsefni&hide_border=true&layout=compact&theme=transparent" style="width: 60%"/></div>)
 
-### 💻 $\color{rgb(0, 150, 255)}{\textsf{Technologies}}$
+### 💻 $\color{rgb(0, 130, 225)}{\textsf{Technologies}}$
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠 $\color{rgb(0, 150, 255)}{\textsf{Tools}}$
+### 🛠 $\color{rgb(0, 130, 225)}{\textsf{Tools}}$
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 
 ---
 
-### 💻 $\color{rgb(0, 150, 255)}{\textsf{Codewars}}$
+### 💻 $\color{rgb(0, 130, 225)}{\textsf{Codewars}}$
 
 ![codewars](https://www.codewars.com/users/glebCarlsefni/badges/large)
 
@@ -45,7 +45,7 @@
 <div>
   <h1 align="center">
   🙏
-  $\color{rgb(0,150,240)}{\textsf{Thank you for your attention!}}$
+  $\color{rgb(0,130,220)}{\textsf{Thank you for your attention!}}$
   🙏
 </h1>
 </div>
