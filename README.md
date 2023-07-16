@@ -6,15 +6,15 @@
   <br>
 </h1>
 
-<h1 align="right">
+<h2 align="right">
   $\color{rgb(0, 180, 250)}{\textsf{Glad to see you here!}}$
-</h1>
+</h2>
 
 [//]: # (Body)
 
 [//]: # (<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebcarlsefni&hide_border=true&layout=compact&theme=transparent" style="width: 60%"/></div>)
 
-### 💻 $\color{rgb(0, 180, 250)}{\textsf{Technologies}}$
+## 💻 $\color{rgb(0, 180, 250)}{\textsf{Technologies}}$
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -27,9 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
 
----
+[//]: # (---)
 
-### 🛠 $\color{rgb(0, 180, 250)}{\textsf{Tools}}$
+## 🛠 $\color{rgb(0, 180, 250)}{\textsf{Tools}}$
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -37,13 +37,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
----
+[//]: # (---)
 
-### 💻 $\color{rgb(0, 180, 250)}{\textsf{Codewars}}$
+## 💻 $\color{rgb(0, 180, 250)}{\textsf{Codewars}}$
 
 ![codewars](https://www.codewars.com/users/glebCarlsefni/badges/large)
 
----
+[//]: # (---)
 
 <div>
   <h1 align="center">
