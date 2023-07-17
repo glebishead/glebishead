@@ -71,10 +71,8 @@
 
 [//]: # (---)
 
-<div>
-  <h1 align="center">
+<h1 align="center">
   🙏
   $\color{rgb(0, 250, 250)}{\textsf{Thank you for your attention!}}$
   🙏
 </h1>
-</div>
