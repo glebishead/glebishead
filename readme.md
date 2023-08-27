@@ -113,13 +113,6 @@ ___
 
 [//]: # (----------OTHER----------)
 
-<h1 align="left">
-  My codewars
-</h1>
-
-![codewars](https://www.codewars.com/users/glebCarlsefni/badges/large)
-
-___
 [//]: # (----------END OTHER----------)
 
 
