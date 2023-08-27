@@ -1,7 +1,7 @@
-[//]: # (Header)
+[//]: # (----------HEADER----------)
 
 <h1 align="left">
-  Welcome to my Github profile
+  Welcome to my github profile
 </h1>
 
 <h3 align="center">
@@ -20,10 +20,33 @@
   Glad to see you here!
 </h3>
 
-[//]: # (Body)
 ___
+[//]: # (----------END HEADER----------)
+
+
+
+
+
+[//]: # (----------INFO----------)
+
+<h1 align="left">
+  About me
+</h1>
+
+<h4 align="left">
+  HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME
+  HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME
+  HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME HERE IS SOME INFO ABOUT ME
+  <br>
+  TEXT ENDS
+</h4>
+
 <details>
-  <summary>About me</summary>
+  <summary align="center">
+    <h3>
+      More about me
+    </h3>
+  </summary>
 
 - 🔭 
 
@@ -42,26 +65,73 @@ ___
 
 - 📫 
 
-___
-
 </details>
 
-[//]: # (---)
+___
+[//]: # (----------END INFO----------)
 
-## 💻 Technologies
 
-[//]: # (---)
 
-## 🛠 Tools
 
-[//]: # (---)
+
+[//]: # (----------TECH STACK----------)
+
+<h1 align="left">
+  My tech stack
+</h1>
+
+<h3 align="left">
+  💻 Technologies
+</h3>
+
+<h3 align="center">
+  <br>
+  <br>
+  HERE IS TECHNOLOGIES
+  <br>
+  <br>
+</h3>
+
+<h3 align="left">
+  🛠 Tools
+</h3>
+
+<h3 align="center">
+  <br>
+  <br>
+  HERE IS TOOLS
+  <br>
+  <br>
+</h3>
+
+___
+[//]: # (----------END TECH STACK----------)
+
+
+
+
+
+[//]: # (----------OTHER----------)
+
+<h1 align="left">
+  My codewars
+</h1>
 
 ![codewars](https://www.codewars.com/users/glebCarlsefni/badges/large)
 
-[//]: # (---)
+___
+[//]: # (----------END OTHER----------)
+
+
+
+
+
+[//]: # (----------END----------)
 
 <h1 align="center">
   🙏
   Thank you for your attention!
   🙏
 </h1>
+
+[//]: # (----------END----------)
