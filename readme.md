@@ -1,7 +1,7 @@
 [//]: # (----------HEADER----------)
 ## Добро пожаловать на мой github профиль)
 
-### Я — начинающий python разработчик
+### Я — trainee, изучаю backend технологии, готовлюсь стать junor python developer
 [//]: # (----------HEADER----------)
 
 
@@ -26,6 +26,7 @@
   | Sqlite3 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlte3" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/telegram_bot_aiogram_shop |
   | Pyqt5 | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/Engineering_Calculator |
   | Flask | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/ProjectWebsite |
+  | Bootstrap | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> |  В Яндекс Лицее  | - |
   
   ### 🛠 Инструменты
   | Инструмент | Иконка | Где узнал об инструменте |
@@ -49,10 +50,9 @@
   </summary>
   
   * проактивен
-  * честен и прямолинеен
+  * честен, часто прямолинеен
   * способен к самообучению
-  * сдержан
-  * стараюсь всегда оставаться спокоен
+  * сдержан, стараюсь всегда оставаться спокоен
   * умею слушать
 
  </details>
