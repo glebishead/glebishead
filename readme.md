@@ -6,21 +6,6 @@
 
 
 
-[//]: # (----------ABOUT ME----------)
-<details>
-  <summary>
-    <h3>
-      Обо мне
-    </h3>
-  </summary>
-  Я начал интересоваться программированием в 8 классе, увидев несколько видеороликов на youtube. Продолжив просматривать контент для начинающих, узнал от своего друга о бесплатной образовательной программе
-  Яндекс Лицей. В следующем году поступил на неё, с трудом пройдя вступительные испытания. За два года обучения познакомился с 
-</details>
-
-[//]: # (----------ABOUT ME----------)
-
-
-
 [//]: # (----------HARD SKILLS----------)
 <details>
   <summary>
@@ -32,20 +17,22 @@
   ### 💻 Языки программирования
   | ЯП | Когда приступил к изучению |
   |:------------------:|:------------------:|
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/> |  В Яндекс Лицее  |
+  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> |  В Яндекс Лицее  |
   
   ### 📑 Библиотеки, orm, фреймворки и прочее
   | Технология | Иконка | Где ознакомился с технологией | Где использовал (пример) |
   |:------------------|:------------------:|:------------------:|------------------:|
-  | Sqlite3 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlte3" alt="sqlte3" width="40" height="40"/> |  В Яндекс Лицее  |  |
-  | Pygame |  |  В Яндекс Лицее  |  |
-  | Pyqt5 | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="pyqt5" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  |  |
-  | Flask | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/> |  В Яндекс Лицее  |  |
+  | Aiogram | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/Engineering_Calculator |
+  | Sqlite3 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlte3" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/telegram_bot_aiogram_shop |
+  | Pyqt5 | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/Engineering_Calculator |
+  | Flask | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/ProjectWebsite |
   
   ### 🛠 Инструменты
-  | Технология | Иконка | Где узнал об инструменте |
+  | Инструмент | Иконка | Где узнал об инструменте |
   |:------------------|:------------------:|:------------------:|
-  | DB Browser| <img src="img/sqlitebrowser.svg" title="db browser" alt="db browser" width="40" height="40"/> |  В Яндекс Лицее  |
+  | DB Browser| <img src="img/sqlitebrowser.svg" alt="db browser" width="40" height="40"/> |  В Яндекс Лицее  |
+  | Figma | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> |  В Яндекс Лицее  |
+  | Trello | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> |  В Яндекс Лицее  |
   
  </details>
  
@@ -63,6 +50,30 @@
  </details>
  
 [//]: # (----------SOFT SKILLS----------)
+
+
+
+[//]: # (----------ABOUT ME----------)
+<details>
+  <summary>
+    <h3>
+      Обо мне
+    </h3>
+  </summary>
+  Я начал интересоваться программированием в 8 классе, увидев несколько видеороликов на youtube. Продолжив просматривать контент для начинающих, узнал от своего друга о бесплатной образовательной программе
+  Яндекс Лицей. В следующем году поступил на неё, пройдя вступительные испытания. <br><br>
+  
+  За два года обучения познакомился с синтаксисом, типами данных, концепциями языка python и несколькими библиотеками, фреймворками и парой технологий, 
+  написал несколько учебных проектов. <br>
+  
+  После окончания обучения приступил к пополнению стека технологий своими силами. <br>
+  
+  В 11 классе поступил на специализацию "Анализ данных" и на текущий момент обучаюсь там. <br>
+
+  Опыта работы пока не имею.
+</details>
+
+[//]: # (----------ABOUT ME----------)
 
 
 
