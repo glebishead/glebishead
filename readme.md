@@ -19,10 +19,10 @@
   |:------------------:|:------------------:|
   | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> |  В Яндекс Лицее  |
   
-  ### 📑 Библиотеки, orm, фреймворки и прочее
-  | Технология | Иконка | Где ознакомился с технологией | Где использовал (пример) |
-  |:------------------|:------------------:|:------------------:|------------------:|
-  | Aiogram | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/Engineering_Calculator |
+  ### 📑 Библиотеки, фреймворки и технологии
+  | Технология | Иконка | Ознакомился с технологией | Пример использования |
+  |:------------------:|:------------------:|:------------------:|:------------------:|
+  | Aiogram | <img src="img/aiogram_icon.png" alt="aiogram" width="40" height="40"/> |  Самостоятельно  | https://github.com/glebishead/telegram_bot_aiogram_shop |
   | Sqlite3 | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlte3" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/telegram_bot_aiogram_shop |
   | Pyqt5 | <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="pyqt5" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/Engineering_Calculator |
   | Flask | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> |  В Яндекс Лицее  | https://github.com/glebishead/ProjectWebsite |
@@ -44,9 +44,17 @@
 <details>
   <summary>
     <h3>
-      Мои личностные навыки (soft skills)
+      Гибкие навыки (soft skills) и личностные качества
     </h3>
   </summary>
+  
+  * проактивен
+  * честен и прямолинеен
+  * способен к самообучению
+  * сдержан
+  * стараюсь всегда оставаться спокоен
+  * умею слушать
+
  </details>
  
 [//]: # (----------SOFT SKILLS----------)
@@ -69,7 +77,7 @@
   После окончания обучения приступил к пополнению стека технологий своими силами. <br>
   
   В 11 классе поступил на специализацию "Анализ данных" и на текущий момент обучаюсь там. <br>
-
+  
   Опыта работы пока не имею.
 </details>
 
