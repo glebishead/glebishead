@@ -1,7 +1,7 @@
 [//]: # (----------HEADER----------)
-## Добро пожаловать на мой github профиль.
+## WELCOME
 
-### Я — trainee, изучаю backend технологии, готовлюсь стать junor python developer.
+### HEADER
 [//]: # (----------HEADER----------)
 
 
@@ -10,7 +10,7 @@
 <details>
   <summary>
     <h3>
-      Мои технические навыки (hard skills)
+      HARD SKILLS
     </h3>
   </summary>
   
@@ -21,26 +21,11 @@
 
 
 
-[//]: # (----------SOFT SKILLS----------)
-<details>
-  <summary>
-    <h3>
-      Гибкие навыки (soft skills) и личностные качества
-    </h3>
-  </summary>
-
-  ...
- </details>
- 
-[//]: # (----------SOFT SKILLS----------)
-
-
-
 [//]: # (----------ABOUT ME----------)
 <details>
   <summary>
     <h3>
-      Обо мне
+      ABOUT
     </h3>
   </summary>
 
@@ -53,6 +38,6 @@
 
 [//]: # (----------END----------)
 
-## Спасибо за внимание!
+## THANK'S FOR ATTENTION
 
 [//]: # (----------END----------)
