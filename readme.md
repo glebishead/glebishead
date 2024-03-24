@@ -7,12 +7,14 @@
 [//]: # (----------HARD SKILLS----------)
 <details>
   <summary>
-    <h3>
-      HARD SKILLS
-    </h3>
+    HARD SKILLS
   </summary>
   
-  ...
+  ___
+  text<br>
+  other text<br>
+  
+  ___
  </details>
  
 [//]: # (----------HARD SKILLS----------)
@@ -22,12 +24,14 @@
 [//]: # (----------ABOUT ME----------)
 <details>
   <summary>
-    <h3>
-      ABOUT
-    </h3>
+    ABOUT
   </summary>
-
-  ...
+  
+  ___
+  text<br>
+  other text<br>
+  
+  ___
 </details>
 
 [//]: # (----------ABOUT ME----------)
