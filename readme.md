@@ -1,5 +1,5 @@
 [//]: # (----------HEADER----------)
-## WELCOME
+## Добро пожаловать
 [//]: # (----------HEADER----------)
 
 
@@ -7,13 +7,17 @@
 [//]: # (----------HARD SKILLS----------)
 <details>
   <summary>
-    HARD SKILLS
+    Технические навыки
   </summary>
   
   ___
-  text<br>
-  other text<br>
-  
+  Статистика<br>
+  A/B тесты<br>
+  Системы аналитики<br>
+  Синтаксис python<br>
+  Pandas, matplotlib, seaborn<br>
+  Sql, sqlite, db browser<br>
+  Визуализация<br>
   ___
  </details>
  
@@ -40,6 +44,6 @@
 
 [//]: # (----------END----------)
 
-## THANK'S FOR ATTENTION
+## Спасибо за внимание
 
 [//]: # (----------END----------)
