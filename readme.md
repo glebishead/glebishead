@@ -24,6 +24,8 @@
   <summary>
     Обо мне
   </summary>
+
+  ___
 </details>
 
 [//]: # (----------ABOUT ME----------)
