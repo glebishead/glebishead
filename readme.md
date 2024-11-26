@@ -12,13 +12,6 @@
     Технические навыки
   </summary>
   
-  * Статистика
-  * A/B тесты
-  * Системы аналитики
-  * Синтаксис python
-  * Pandas, matplotlib, seaborn
-  * Sql, sqlite, db browser
-  * Визуализация
   ___
  </details>
  
